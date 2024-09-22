@@ -1,0 +1,6 @@
+streamlit
+langchain
+google-cloud-aiplatform
+faiss-cpu
+sentence-transformers
+python-dotenv
